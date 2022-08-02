@@ -1,0 +1,22 @@
+{
+  "name": "cute-theme",
+  "displayName": "cute theme",
+  "description": "cute theme!",
+  "version": "0.0.1",
+  "publisher": "dani",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cute theme",
+        "uiTheme": "hc-light",
+        "path": "./themes/cute theme-color-theme.json"
+      }
+    ]
+  }
+}
