@@ -1,9 +1,7 @@
-# Change Log
-
-All notable changes to the "cute-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- feat: update cute theme light
+- feat: add library of colors
+- feat: add test theme
+- docs: update read me
+- feat: add prettier configuration
+- chore: add git ignore
+- init: cute theme vs code extension
