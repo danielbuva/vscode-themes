@@ -3,6 +3,7 @@
   "displayName": "nya",
   "description": "pink",
   "version": "0.1.0",
+  "icon": "pink.jpg",
   "publisher": "dani",
   "repository": {
     "type": "git",
