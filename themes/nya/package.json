@@ -1,0 +1,34 @@
+{
+  "name": "nya",
+  "displayName": "nya",
+  "description": "pink",
+  "version": "0.0.1",
+  "publisher": "dani",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielbuva/nya"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "keywords": [
+    "pink theme",
+    "pink",
+    "cute theme",
+    "cute",
+    "theme",
+    "dani"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "nya",
+        "uiTheme": "vs-dark",
+        "path": "./themes/nya-color-theme.json"
+      }
+    ]
+  }
+}
