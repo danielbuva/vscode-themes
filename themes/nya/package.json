@@ -3,7 +3,7 @@
   "displayName": "nya",
   "description": "pink",
   "version": "0.4.0",
-  "icon": "pink.jpg",
+  "icon": "pink.png",
   "publisher": "dani",
   "repository": {
     "type": "git",
@@ -13,6 +13,7 @@
     "vscode": "^1.76.0"
   },
   "keywords": [
+    "nya",
     "pink theme",
     "pink",
     "cute theme",
