@@ -1,0 +1,36 @@
+{
+  "name": "danica",
+  "displayName": "danica",
+  "description": "swag",
+  "version": "0.0.1",
+  "icon": "grape.png",
+  "publisher": "dani",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielbuva/danica"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "keywords": [
+    "danica",
+    "purple theme",
+    "purple",
+    "cute theme",
+    "cute",
+    "theme",
+    "dani"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "danica",
+        "uiTheme": "vs-dark",
+        "path": "./themes/danica-color-theme.json"
+      }
+    ]
+  }
+}
