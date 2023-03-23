@@ -4,6 +4,11 @@
   "description": "theme for laurent",
   "version": "0.0.1",
   "icon": "lohan.png",
+  "publisher": "dani",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielbuva/laurent"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
