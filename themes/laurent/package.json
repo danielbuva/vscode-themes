@@ -1,0 +1,30 @@
+{
+  "name": "laurent",
+  "displayName": "laurent",
+  "description": "theme for laurent",
+  "version": "0.0.1",
+  "icon": "lohan.png",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "keywords": [
+    "laurent",
+    "lohan",
+    "vivid theme",
+    "vivid",
+    "theme",
+    "dani"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "laurent",
+        "uiTheme": "vs-dark",
+        "path": "./themes/laurent-color-theme.json"
+      }
+    ]
+  }
+}
