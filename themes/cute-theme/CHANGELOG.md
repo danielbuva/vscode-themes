@@ -1,0 +1,7 @@
+- feat: update cute theme light
+- feat: add library of colors
+- feat: add test theme
+- docs: update read me
+- feat: add prettier configuration
+- chore: add git ignore
+- init: cute theme vs code extension

@@ -1,0 +1,34 @@
+{
+  "name": "cute-theme-hi",
+  "displayName": "cute theme",
+  "description": "cute theme!",
+  "version": "0.0.1",
+  "publisher": "dani",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/danielbuva/cute-theme"
+  },
+  "keywords": [
+    "theme",
+    "cute theme",
+    "cute",
+    "pink theme",
+    "pink",
+    "dani"
+  ],
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "cute theme",
+        "uiTheme": "hc-light",
+        "path": "./themes/cute theme-color-theme.json"
+      }
+    ]
+  }
+}
