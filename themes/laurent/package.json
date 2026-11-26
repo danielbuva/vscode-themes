@@ -7,7 +7,8 @@
   "publisher": "dani",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielbuva/laurent"
+    "url": "https://github.com/danielbuva/vscode-themes",
+    "directory": "themes/laurent"
   },
   "engines": {
     "vscode": "^1.76.0"

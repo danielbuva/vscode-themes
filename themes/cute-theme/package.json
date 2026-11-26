@@ -6,7 +6,8 @@
   "publisher": "dani",
   "repository": {
     "type": "git",
-    "url": "https://github.com/danielbuva/cute-theme"
+    "url": "https://github.com/danielbuva/vscode-themes",
+    "directory": "themes/cute-theme"
   },
   "keywords": [
     "theme",
